@@ -15,6 +15,9 @@ Spoon-eat it´s a product develop by me and some frineds of mine. This are cooki
 
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/3693fabd-f761-4214-bfe1-34c62a5a8e13)
 
+![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/127696c9-2130-4b68-8b22-25bd2c4f4fff)
+
+
 # The DataSet
 During the development process of Spoon-Eat, our team took a data-driven approach to create the perfect eco-friendly edible spoon made with Portuguese ingredients using 3D printing technology. We collected data on the quantities of each ingredient used in each recipe, as well as important characteristics of the final product such as texture of the raw dough, 3D printing performance, taste, and crispiness. This data was then analyzed through clustering analysis to find the optimal recipe for our Spoon-Eat product. Through this approach, we were able to create a high-quality and sustainable product that meets the needs of modern consumers while also reducing the environmental impact of disposable cutlery.
 
@@ -23,7 +26,7 @@ In order to analyze the data collected during the development process of Spoon-E
 
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/b3f04e04-e8c2-4552-9401-7bd83874bdd7)
 
-![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/5b21e8d1-d872-471e-b329-e98dd4924010)
+
 
 The clustering analysis helped us to categorize the recipes into three different groups based on their quality. We identified a cluster with low-quality recipes, a cluster with intermediate-quality recipes, and a cluster with high-quality recipes. This approach allowed us to identify the key factors that contributed to the overall quality of the Spoon-Eat recipe, such as the texture of the raw dough, the printing performance, the taste, and the crispiness of the final product.
 
