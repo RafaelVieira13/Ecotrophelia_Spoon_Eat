@@ -25,6 +25,23 @@ In order to analyze the data collected during the development process of Spoon-E
 
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/127696c9-2130-4b68-8b22-25bd2c4f4fff)
 
-The clustering analysis helped us to categorize the recipes into three different groups based on their quality. We identified a cluster with low-quality recipes, a cluster with intermediate-quality recipes, and a cluster with high-quality recipes. This approach allowed us to identify the key factors that contributed to the overall quality of the Spoon-Eat recipe, such as the texture of the raw dough, the printing performance, the taste, and the crispiness of the final product.
+The clustering analysis helped us to categorize the recipes into three different groups based on their quality, then each cluster were analysed in more detail. This analysi allows us to identified a cluster with low-quality recipes, a cluster with intermediate-quality recipes, and a cluster with high-quality recipes. Above you can some some of the high-quality results cluster.
 
+1. Priting Performance:
+![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/b0ccf59b-a74a-4c92-bfd9-20bedb4caa62)
+
+This cluster appears to have a good priting performance, where 75% off the recipes had a good priting performance, and only 25% had a bad performance. Just one recipe had a bad priting performance.
+
+2. Taste
+![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/5030a5da-6bb0-475c-98e7-77c84c99a093)
+
+Every recipe of this cluster had a good taste.
+
+3. Crispiness
+
+![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/32861e60-14a8-4116-9456-7ddefd49c7c8)
+
+Overall this cluster appears to be crunchy performance, where 75% off the recipes were crunchy. Just one recipe wasn´t crunchy.
+
+# Conclusions
 The results of this analysis provided us with valuable insights that were used to optimize our recipe and improve its overall quality. This approach also helped us to identify the most important ingredients and quantities to use in the recipe, as well as the optimal printing conditions to achieve the desired texture and crispiness. Overall, the clustering analysis was an essential tool in the development of Spoon-Eat, allowing us to create an eco-friendly, tasty, and innovative product that we are proud to present in the Ecotrophelia 2023 competition.
