@@ -5,11 +5,14 @@ To create the perfect recipe for our edible spoon, we conducted a thorough analy
 
 # What is Ecotrophelia?
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/6a27b711-edfd-44d8-bf12-16148a14c056)
+
 Ecotrophelia is a European competition for students who develop innovative, sustainable, and eco-friendly food products. It was first launched in France in 2000 and has since expanded to other countries in Europe. The competition challenges students to create new food products that are environmentally sustainable, healthy, and commercially viable. It aims to encourage young people to be more aware of the environmental impact of food production and to promote entrepreneurship in the food industry. The competition provides a platform for students to showcase their innovative ideas and receive recognition for their work.
 
 # Spoon-Eat
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/9759fe4c-a850-4001-ad39-516dc2e1dbc5)
+
 Spoon-eat it´s a product develop by me and some frineds of mine. This are cookies shaped like a spoon and they fit in the cookie, utensils and snacks categories. Their main ingredients are chickpea flour, rice flour, chestnut flour and cinnamon. They have the appearance of small brown colored spoons, due to the flours and spices used. These ingredients are what gives Spoon-eat their flavour and texture. Spoon-eat are an innovative source of fiber and it can be used in various ways, with whatever you want: jams, yogurt, ice cream, coffee, tea, etc. - the possibilities are endless. They’re made using 3D printers and mainly Portuguese raw materials, some being the byproduct of other industries. They can be stored in cool dry places, their expiration date is estimated to be around 3 months and they’re distributed using the trucks that bring in ra w materials.
+
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/3693fabd-f761-4214-bfe1-34c62a5a8e13)
 
 # The DataSet
@@ -19,7 +22,9 @@ During the development process of Spoon-Eat, our team took a data-driven approac
 In order to analyze the data collected during the development process of Spoon-Eat, it was used the elbow method and dendrogram to identify three clusters. Then, we performed k-means and hierarchical clustering to obtain more detailed results.
 
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/b3f04e04-e8c2-4552-9401-7bd83874bdd7)
+
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/5b21e8d1-d872-471e-b329-e98dd4924010)
+
 The clustering analysis helped us to categorize the recipes into three different groups based on their quality. We identified a cluster with low-quality recipes, a cluster with intermediate-quality recipes, and a cluster with high-quality recipes. This approach allowed us to identify the key factors that contributed to the overall quality of the Spoon-Eat recipe, such as the texture of the raw dough, the printing performance, the taste, and the crispiness of the final product.
 
 The results of this analysis provided us with valuable insights that were used to optimize our recipe and improve its overall quality. This approach also helped us to identify the most important ingredients and quantities to use in the recipe, as well as the optimal printing conditions to achieve the desired texture and crispiness. Overall, the clustering analysis was an essential tool in the development of Spoon-Eat, allowing us to create an eco-friendly, tasty, and innovative product that we are proud to present in the Ecotrophelia 2023 competition.
