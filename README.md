@@ -11,7 +11,7 @@ Ecotrophelia is a European competition for students who develop innovative, sust
 # Spoon-Eat
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/9759fe4c-a850-4001-ad39-516dc2e1dbc5)
 
-Spoon-eat it´s a product develop by me and some frineds of mine. This are cookies shaped like a spoon and they fit in the cookie, utensils and snacks categories. Their main ingredients are chickpea flour, rice flour, chestnut flour and cinnamon. They have the appearance of small brown colored spoons, due to the flours and spices used. These ingredients are what gives Spoon-eat their flavour and texture. Spoon-eat are an innovative source of fiber and it can be used in various ways, with whatever you want: jams, yogurt, ice cream, coffee, tea, etc. - the possibilities are endless. They’re made using 3D printers and mainly Portuguese raw materials, some being the byproduct of other industries. 
+Spoon-eat it´s a product develop by a group of friends. This are cookies shaped like a spoon and they fit in the cookie, utensils and snacks categories. Their main ingredients are chickpea flour, rice flour, chestnut flour and cinnamon. They have the appearance of small brown colored spoons, due to the flours and spices used. These ingredients are what gives Spoon-eat their flavour and texture. Spoon-eat are an innovative source of fiber and it can be used in various ways, with whatever you want: jams, yogurt, ice cream, coffee, tea, etc. - the possibilities are endless. They’re made using 3D printers and mainly Portuguese raw materials, some being the byproduct of other industries. 
 
 ![image](https://github.com/RafaelVieira13/Ecotrophelia_Spoon_Eat/assets/129581165/3693fabd-f761-4214-bfe1-34c62a5a8e13)
 
