@@ -1,4 +1,4 @@
-# Why I´m doing this Project?
+# Why am I doing this Project?
 The growing concern for sustainability and environmental responsibility has pushed the food industry to explore new ways of producing and packaging food products. In this context, Ecotrophelia has become an important platform for young entrepreneurs to showcase their innovative ideas for sustainable food products. Our team is proud to present our project for the Ecotrophelia 2023 competition - an eco-friendly edible spoon made using 3D printing technology and Portuguese ingredients.
 
 To create the perfect recipe for our edible spoon, we conducted a thorough analysis of various data points related to the ingredients and some characteristics of the final product. To make sense of the dataset, we employed clustering analysis, a widely used technique in data analysis that groups similar items together. The results of our analysis helped us identify the ideal combination of ingredients to create a delicious, healthy, and sustainable spoon that will not only reduce waste but also add a unique and flavorful experience to the food consumption process.
